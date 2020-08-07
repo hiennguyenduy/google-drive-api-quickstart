@@ -1,21 +1,19 @@
 # Google Drive API Quickstart
 
-Complete the steps described in the [Google Drive API Quickstart](https://developers.google.com/drive/v3/web/quickstart/php), and in about five minutes you'll have a simple PHP command-line application that makes requests to the Google Drive V3 API.
+Hoàn thành các bước trong mô tả [Google Drive API Quickstart](https://developers.google.com/drive/v3/web/quickstart/php), và trong khoảng năm phút, bạn sẽ có một ứng dụng dòng lệnh PHP đơn giản đưa ra các yêu cầu đối với API Google Drive V3.
 
 ## Set up
 
 ### Install Composer Globally
 
-Before running this quickstart, be sure you have [Composer installed globally](https://getcomposer.org/doc/00-intro.md#globally).
+Trước khi chạy phần khởi động nhanh này, hãy chắc chắn rằng bạn có [Composer installed globally](https://getcomposer.org/doc/00-intro.md#globally).
 
 ```sh
 composer install
 ```
 
 ### Download Developer Credentials
-- Follow the steps in the quickstart instructions to download your developer
-  credentials and save them in a file called `credentails.json` in this
-  directory.
+- Làm theo các bước trong hướng dẫn bắt đầu nhanh để tải xuống thông tin đăng nhập nhà phát triển của bạn và lưu chúng trong một tệp có tên là `credentails.json` trong thư mục này.
 
 ## Run
 
